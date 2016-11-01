@@ -1,0 +1,19 @@
+{
+    "name": "tuntron/sms",
+    "description": "laravel5.3 sms",
+    "type": "package",
+    "keywords": ["laravel", "tuntron", "sms"],
+    "homepage": "https://github.com/tuntron/sms",
+    "authors": [
+        {
+            "name": "chenchen",
+            "email": "admin@tuntron.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tuntron\\SMS\\": "src/"
+        }
+    },
+    "require": {}
+}
